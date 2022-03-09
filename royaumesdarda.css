@@ -428,6 +428,16 @@ th,td {
     font-size:30px;
 }
 
+.tournoi-gauche {
+    float:left;
+    margin-left:275px;
+}
+
+.tournoi-droite {
+    float:right;
+    margin-right:275px;
+}
+
 .participant-confirme {
     text-align:center;
     color:green;
@@ -562,5 +572,7 @@ div.participant-elimine img {
 }
 
 .pseudo {
-    margin-top:48px;
+    font-size:20px;
+    margin-top:50px;
+    font-weight: bold;
 }
